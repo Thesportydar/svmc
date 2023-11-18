@@ -1,0 +1,371 @@
+[00:03:23] [Server thread/INFO]: tommyfederico[/181.171.81.8:63514] logged in with entity id 4417 at (20.5, 68.0, 15.5)
+[00:03:23] [Server thread/INFO]: tommyfederico joined the game
+[00:05:29] [Server thread/INFO]: Harley has made the advancement [Diamonds!]
+[00:05:32] [Server thread/INFO]: tommyfederico has made the advancement [Stone Age]
+[00:06:04] [Server thread/INFO]: tommyfederico has made the advancement [Getting an Upgrade]
+[00:09:54] [Server thread/INFO]: tommyfederico has made the advancement [Monster Hunter]
+[00:10:23] [Server thread/INFO]: tommyfederico has made the advancement [Sweet Dreams]
+[00:13:46] [Server thread/INFO]: Harley has made the advancement [Monster Hunter]
+[00:14:46] [Server thread/INFO]: tommyfederico has made the advancement [A Seedy Place]
+[00:16:22] [Server thread/INFO]: Harley lost connection: Disconnected
+[00:16:22] [Server thread/INFO]: Harley left the game
+[00:18:38] [Server thread/INFO]: /advancement (grant|revoke)
+[00:18:38] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
+[00:18:38] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[00:18:38] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
+[00:18:38] [Server thread/INFO]: /clear [<targets>]
+[00:18:38] [Server thread/INFO]: /clone (<begin>|from)
+[00:18:38] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
+[00:18:38] [Server thread/INFO]: /data (merge|get|remove|modify)
+[00:18:38] [Server thread/INFO]: /datapack (enable|disable|list)
+[00:18:38] [Server thread/INFO]: /debug (start|stop|function)
+[00:18:38] [Server thread/INFO]: /defaultgamemode <gamemode>
+[00:18:38] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
+[00:18:38] [Server thread/INFO]: /effect (clear|give)
+[00:18:38] [Server thread/INFO]: /me <action>
+[00:18:38] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[00:18:38] [Server thread/INFO]: /experience (add|set|query)
+[00:18:38] [Server thread/INFO]: /xp -> experience
+[00:18:38] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[00:18:38] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
+[00:18:38] [Server thread/INFO]: /forceload (add|remove|query)
+[00:18:38] [Server thread/INFO]: /function <name> [<arguments>|with]
+[00:18:38] [Server thread/INFO]: /gamemode <gamemode> [<target>]
+[00:18:38] [Server thread/INFO]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|enderPearlsVanishOnDeath|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[00:18:38] [Server thread/INFO]: /give <targets> <item> [<count>]
+[00:18:38] [Server thread/INFO]: /help [<command>]
+[00:18:38] [Server thread/INFO]: /item (replace|modify)
+[00:18:38] [Server thread/INFO]: /kick <targets> [<reason>]
+[00:18:38] [Server thread/INFO]: /kill [<targets>]
+[00:18:38] [Server thread/INFO]: /list [uuids]
+[00:18:38] [Server thread/INFO]: /locate (structure|biome|poi)
+[00:18:38] [Server thread/INFO]: /loot (replace|insert|give|spawn)
+[00:18:38] [Server thread/INFO]: /msg <targets> <message>
+[00:18:38] [Server thread/INFO]: /tell -> msg
+[00:18:38] [Server thread/INFO]: /w -> msg
+[00:18:38] [Server thread/INFO]: /particle <name> [<pos>]
+[00:18:38] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
+[00:18:38] [Server thread/INFO]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[00:18:38] [Server thread/INFO]: /random (value|roll|reset)
+[00:18:38] [Server thread/INFO]: /reload
+[00:18:38] [Server thread/INFO]: /recipe (give|take)
+[00:18:38] [Server thread/INFO]: /return <value>
+[00:18:38] [Server thread/INFO]: /ride <target> (mount|dismount)
+[00:18:38] [Server thread/INFO]: /say <message>
+[00:18:38] [Server thread/INFO]: /schedule (function|clear)
+[00:18:38] [Server thread/INFO]: /scoreboard (objectives|players)
+[00:18:38] [Server thread/INFO]: /seed
+[00:18:38] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[00:18:38] [Server thread/INFO]: /spawnpoint [<targets>]
+[00:18:38] [Server thread/INFO]: /setworldspawn [<pos>]
+[00:18:38] [Server thread/INFO]: /spectate [<target>]
+[00:18:38] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[00:18:38] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[00:18:38] [Server thread/INFO]: /summon <entity> [<pos>]
+[00:18:38] [Server thread/INFO]: /tag <targets> (add|remove|list)
+[00:18:38] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
+[00:18:38] [Server thread/INFO]: /teammsg <message>
+[00:18:38] [Server thread/INFO]: /tm -> teammsg
+[00:18:38] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
+[00:18:38] [Server thread/INFO]: /tp -> teleport
+[00:18:38] [Server thread/INFO]: /tellraw <targets> <message>
+[00:18:38] [Server thread/INFO]: /time (set|add|query)
+[00:18:38] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[00:18:38] [Server thread/INFO]: /trigger <objective> [add|set]
+[00:18:38] [Server thread/INFO]: /weather (clear|rain|thunder)
+[00:18:38] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
+[00:18:38] [Server thread/INFO]: /jfr (start|stop)
+[00:18:38] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[00:18:38] [Server thread/INFO]: /banlist [ips|players]
+[00:18:38] [Server thread/INFO]: /ban <targets> [<reason>]
+[00:18:38] [Server thread/INFO]: /deop <targets>
+[00:18:38] [Server thread/INFO]: /op <targets>
+[00:18:38] [Server thread/INFO]: /pardon <targets>
+[00:18:38] [Server thread/INFO]: /pardon-ip <target>
+[00:18:38] [Server thread/INFO]: /perf (start|stop)
+[00:18:38] [Server thread/INFO]: /save-all [flush]
+[00:18:38] [Server thread/INFO]: /save-off
+[00:18:38] [Server thread/INFO]: /save-on
+[00:18:38] [Server thread/INFO]: /setidletimeout <minutes>
+[00:18:38] [Server thread/INFO]: /stop
+[00:18:38] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
+[00:19:03] [Server thread/INFO]: Harley[/181.166.110.75:60396] logged in with entity id 12085 at (-668.2789071462304, 63.0, -346.1867450901325)
+[00:19:03] [Server thread/INFO]: Harley joined the game
+[00:19:24] [Server thread/INFO]: tommyfederico lost connection: Disconnected
+[00:19:24] [Server thread/INFO]: tommyfederico left the game
+[00:19:29] [Server thread/INFO]: The difficulty has been set to Hard
+[00:19:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2185ms or 43 ticks behind
+[00:19:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[00:20:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7344ms or 146 ticks behind
+[00:21:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[00:22:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
+[00:22:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10449ms or 208 ticks behind
+[00:22:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2760ms or 55 ticks behind
+[00:23:13] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -5.8490045978600165,0.0,-8.466106662545371
+[00:23:13] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -6.075939326727507,0.0,-8.794578505932463
+[00:23:13] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -6.302917245884487,0.0,-9.12311278887853
+[00:23:13] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -6.529934036300915,0.0,-9.451703267426296
+[00:23:13] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -6.756985810849869,0.0,-9.78034432201423
+[00:23:13] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -6.98406907111746,0.0,-10.109030895036994
+[00:23:13] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -7.211180668530801,0.0,-10.437758434650164
+[00:23:13] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -7.438317769374748,0.0,-10.766522844193673
+[00:23:13] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -7.66547782330565,0.0,-11.095320436673546
+[00:23:13] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -7.892658535014448,0.0,-11.424147893795407
+[00:23:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17838ms or 356 ticks behind
+[00:23:42] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! 9.229846826030325,0.0,-3.9589135440497785
+[00:23:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8354ms or 167 ticks behind
+[00:24:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2326ms or 46 ticks behind
+[00:25:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2207ms or 44 ticks behind
+[00:25:14] [Server thread/INFO]: tommyfederico[/181.171.81.8:64521] logged in with entity id 17366 at (-622.6708932901341, 47.0, -224.61794139961455)
+[00:25:14] [Server thread/INFO]: tommyfederico joined the game
+[00:25:36] [Server thread/INFO]: Harley has made the advancement [Ice Bucket Challenge]
+[00:26:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[00:29:00] [Server thread/INFO]: PINONETA lost connection: Disconnected
+[00:29:00] [Server thread/INFO]: PINONETA left the game
+[00:29:01] [Server thread/INFO]: Harley lost connection: Disconnected
+[00:29:01] [Server thread/INFO]: Harley left the game
+[00:29:02] [Server thread/INFO]: tommyfederico lost connection: Disconnected
+[00:29:02] [Server thread/INFO]: tommyfederico left the game
+[00:29:06] [Server thread/INFO]: [Not Secure] <Thesportydar> zzz
+[00:29:16] [Server thread/INFO]: tommyfederico[/181.171.81.8:64685] logged in with entity id 21410 at (-623.3000000119209, 21.0, -253.70581107898346)
+[00:29:16] [Server thread/INFO]: tommyfederico joined the game
+[00:29:17] [Server thread/INFO]: PINONETA[/181.165.147.131:56006] logged in with entity id 21535 at (-130.30000001192093, 62.0, -236.3739595852962)
+[00:29:17] [Server thread/INFO]: PINONETA joined the game
+[00:29:18] [Server thread/INFO]: Harley[/181.166.110.75:60460] logged in with entity id 21756 at (-872.3000000119209, 59.0, -217.67850751972378)
+[00:29:18] [Server thread/INFO]: Harley joined the game
+[00:32:37] [Server thread/INFO]: Set the weather to clear
+[00:34:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[00:35:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[00:35:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3798ms or 75 ticks behind
+[00:36:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5211ms or 104 ticks behind
+[00:36:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2302ms or 46 ticks behind
+[00:37:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2350ms or 47 ticks behind
+[00:37:12] [Server thread/INFO]: Harley lost connection: Disconnected
+[00:37:12] [Server thread/INFO]: Harley left the game
+[00:39:04] [Server thread/INFO]: tommyfederico has made the advancement [Acquire Hardware]
+[00:39:27] [Server thread/INFO]: tommyfederico has made the advancement [Isn't It Iron Pick]
+[00:41:46] [Server thread/INFO]: tommyfederico lost connection: Disconnected
+[00:41:46] [Server thread/INFO]: tommyfederico left the game
+[00:41:56] [Server thread/INFO]: [Not Secure] <Thesportydar> zzz
+[00:42:03] [Server thread/INFO]: tommyfederico[/181.171.81.8:65076] logged in with entity id 31783 at (-622.4875000119209, 2.0, -348.69999998807907)
+[00:42:03] [Server thread/INFO]: tommyfederico joined the game
+[00:53:14] [Server thread/INFO]: tommyfederico has made the advancement [Diamonds!]
+[00:59:10] [Server thread/INFO]: [Not Secure] <Thesportydar> zzz
+[00:59:28] [Server thread/INFO]: /advancement (grant|revoke)
+[00:59:28] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
+[00:59:28] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[00:59:28] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
+[00:59:28] [Server thread/INFO]: /clear [<targets>]
+[00:59:28] [Server thread/INFO]: /clone (<begin>|from)
+[00:59:28] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
+[00:59:28] [Server thread/INFO]: /data (merge|get|remove|modify)
+[00:59:28] [Server thread/INFO]: /datapack (enable|disable|list)
+[00:59:28] [Server thread/INFO]: /debug (start|stop|function)
+[00:59:28] [Server thread/INFO]: /defaultgamemode <gamemode>
+[00:59:28] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
+[00:59:28] [Server thread/INFO]: /effect (clear|give)
+[00:59:28] [Server thread/INFO]: /me <action>
+[00:59:28] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[00:59:28] [Server thread/INFO]: /experience (add|set|query)
+[00:59:28] [Server thread/INFO]: /xp -> experience
+[00:59:28] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[00:59:28] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
+[00:59:28] [Server thread/INFO]: /forceload (add|remove|query)
+[00:59:28] [Server thread/INFO]: /function <name> [<arguments>|with]
+[00:59:28] [Server thread/INFO]: /gamemode <gamemode> [<target>]
+[00:59:28] [Server thread/INFO]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|enderPearlsVanishOnDeath|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[00:59:28] [Server thread/INFO]: /give <targets> <item> [<count>]
+[00:59:28] [Server thread/INFO]: /help [<command>]
+[00:59:28] [Server thread/INFO]: /item (replace|modify)
+[00:59:28] [Server thread/INFO]: /kick <targets> [<reason>]
+[00:59:28] [Server thread/INFO]: /kill [<targets>]
+[00:59:28] [Server thread/INFO]: /list [uuids]
+[00:59:28] [Server thread/INFO]: /locate (structure|biome|poi)
+[00:59:28] [Server thread/INFO]: /loot (replace|insert|give|spawn)
+[00:59:28] [Server thread/INFO]: /msg <targets> <message>
+[00:59:28] [Server thread/INFO]: /tell -> msg
+[00:59:28] [Server thread/INFO]: /w -> msg
+[00:59:28] [Server thread/INFO]: /particle <name> [<pos>]
+[00:59:28] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
+[00:59:28] [Server thread/INFO]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[00:59:28] [Server thread/INFO]: /random (value|roll|reset)
+[00:59:28] [Server thread/INFO]: /reload
+[00:59:28] [Server thread/INFO]: /recipe (give|take)
+[00:59:28] [Server thread/INFO]: /return <value>
+[00:59:28] [Server thread/INFO]: /ride <target> (mount|dismount)
+[00:59:28] [Server thread/INFO]: /say <message>
+[00:59:28] [Server thread/INFO]: /schedule (function|clear)
+[00:59:28] [Server thread/INFO]: /scoreboard (objectives|players)
+[00:59:28] [Server thread/INFO]: /seed
+[00:59:28] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[00:59:28] [Server thread/INFO]: /spawnpoint [<targets>]
+[00:59:28] [Server thread/INFO]: /setworldspawn [<pos>]
+[00:59:28] [Server thread/INFO]: /spectate [<target>]
+[00:59:28] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[00:59:28] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[00:59:28] [Server thread/INFO]: /summon <entity> [<pos>]
+[00:59:28] [Server thread/INFO]: /tag <targets> (add|remove|list)
+[00:59:28] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
+[00:59:28] [Server thread/INFO]: /teammsg <message>
+[00:59:28] [Server thread/INFO]: /tm -> teammsg
+[00:59:28] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
+[00:59:28] [Server thread/INFO]: /tp -> teleport
+[00:59:28] [Server thread/INFO]: /tellraw <targets> <message>
+[00:59:28] [Server thread/INFO]: /time (set|add|query)
+[00:59:28] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[00:59:28] [Server thread/INFO]: /trigger <objective> [add|set]
+[00:59:28] [Server thread/INFO]: /weather (clear|rain|thunder)
+[00:59:28] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
+[00:59:28] [Server thread/INFO]: /jfr (start|stop)
+[00:59:28] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[00:59:28] [Server thread/INFO]: /banlist [ips|players]
+[00:59:28] [Server thread/INFO]: /ban <targets> [<reason>]
+[00:59:28] [Server thread/INFO]: /deop <targets>
+[00:59:28] [Server thread/INFO]: /op <targets>
+[00:59:28] [Server thread/INFO]: /pardon <targets>
+[00:59:28] [Server thread/INFO]: /pardon-ip <target>
+[00:59:28] [Server thread/INFO]: /perf (start|stop)
+[00:59:28] [Server thread/INFO]: /save-all [flush]
+[00:59:28] [Server thread/INFO]: /save-off
+[00:59:28] [Server thread/INFO]: /save-on
+[00:59:28] [Server thread/INFO]: /setidletimeout <minutes>
+[00:59:28] [Server thread/INFO]: /stop
+[00:59:28] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
+[00:59:29] [Server thread/INFO]: tommyfederico lost connection: Disconnected
+[00:59:29] [Server thread/INFO]: tommyfederico left the game
+[00:59:32] [Server thread/INFO]: tommyfederico[/181.171.81.8:65522] logged in with entity id 36116 at (-730.5986768655449, 16.0, -318.3086414328086)
+[00:59:32] [Server thread/INFO]: tommyfederico joined the game
+[01:15:18] [Server thread/INFO]: [Not Secure] <Thesportydar> zzz
+[01:15:34] [Server thread/INFO]: [Not Secure] <PINONETA> zzzzzzzzzzzzzzzzzzzz
+[01:18:01] [Server thread/INFO]: tommyfederico was blown up by Creeper
+[01:28:36] [Server thread/INFO]: [Not Secure] <PINONETA> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[01:28:47] [Server thread/INFO]: [Not Secure] <Thesportydar> zzz
+[01:41:05] [Server thread/INFO]: [Not Secure] <Thesportydar> zzz
+[01:53:50] [Server thread/INFO]: [Not Secure] <tommyfederico> zzzz
+[01:53:57] [Server thread/INFO]: [Not Secure] <tommyfederico> sexo
+[01:58:35] [Server thread/INFO]: tommyfederico has made the advancement [Suit Up]
+[02:06:06] [Server thread/INFO]: [Not Secure] <Thesportydar> zzzz
+[02:06:09] [Server thread/INFO]: tommyfederico lost connection: Disconnected
+[02:06:09] [Server thread/INFO]: tommyfederico left the game
+[02:06:20] [Server thread/INFO]: tommyfederico[/181.171.81.8:50971] logged in with entity id 58137 at (-689.3000000119209, 55.0, -246.69999998807907)
+[02:06:20] [Server thread/INFO]: tommyfederico joined the game
+[02:15:06] [Server thread/INFO]: PINONETA has made the advancement [Ice Bucket Challenge]
+[02:15:27] [Server thread/INFO]: PINONETA has made the advancement [Who is Cutting Onions?]
+[02:19:07] [Server thread/INFO]: tommyfederico has made the advancement [Not Today, Thank You]
+[02:24:42] [Server thread/WARN]: Oak Boat (vehicle of PINONETA) moved wrongly! 0.3243329017624319
+[02:27:50] [Server thread/INFO]: Thesportydar has made the advancement [Ice Bucket Challenge]
+[02:29:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[02:29:04] [Server thread/INFO]: Set the weather to clear
+[02:32:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[02:38:12] [Server thread/WARN]: Thesportydar moved too quickly! -1.3845303058967602,-11.239372213654825,-0.6405151706187553
+[02:42:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[02:42:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3741ms or 74 ticks behind
+[02:43:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7887ms or 157 ticks behind
+[02:43:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5113ms or 102 ticks behind
+[02:43:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2260ms or 45 ticks behind
+[02:44:06] [Server thread/WARN]: Oak Boat (vehicle of PINONETA) moved wrongly! 0.413408086184063
+[02:44:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2615ms or 52 ticks behind
+[02:54:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17760ms or 355 ticks behind
+[02:54:41] [Server thread/WARN]: Mismatch in destroy block pos: gw{x=-5066, y=39, z=1599} gw{x=-5066, y=40, z=1599}
+[02:58:23] [Server thread/INFO]: The difficulty has been set to Normal
+[02:59:32] [Server thread/INFO]: PINONETA lost connection: Disconnected
+[02:59:32] [Server thread/INFO]: PINONETA left the game
+[02:59:32] [Server thread/INFO]: [Not Secure] <tommyfederico> zzzzzzz
+[02:59:33] [Server thread/INFO]: Thesportydar lost connection: Disconnected
+[02:59:33] [Server thread/INFO]: Thesportydar left the game
+[02:59:36] [Server thread/INFO]: Thesportydar[/192.168.1.10:51987] logged in with entity id 92941 at (-4686.523178161962, 64.0, 2012.691692432238)
+[02:59:36] [Server thread/INFO]: Thesportydar joined the game
+[02:59:37] [Server thread/INFO]: PINONETA[/181.165.147.131:56482] logged in with entity id 92942 at (-4704.8527905116525, 64.0, 2004.4550144342595)
+[02:59:37] [Server thread/INFO]: PINONETA joined the game
+[03:00:00] [Server thread/INFO]: Harley[/181.166.110.75:61451] logged in with entity id 93621 at (-2468.084362753424, 63.0, 103.95853275339464)
+[03:00:00] [Server thread/INFO]: Harley joined the game
+[03:00:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2302ms or 46 ticks behind
+[03:00:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[03:01:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3676ms or 73 ticks behind
+[03:01:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4993ms or 99 ticks behind
+[03:01:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3184ms or 63 ticks behind
+[03:01:51] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -2.4057752695457566,0.0,-10.109660956383664
+[03:01:51] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -2.4908464986428953,0.0,-10.500435587395884
+[03:01:51] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -2.575687554301112,0.0,-10.891267028608866
+[03:01:51] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -2.66031770157133,0.0,-11.282150392488006
+[03:01:51] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -2.7447542789986983,0.0,-11.673081276526943
+[03:01:51] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -2.829012891273578,0.0,-12.064055725920753
+[03:01:51] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -2.9131075826167034,0.0,-12.455070173894399
+[03:01:51] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -2.9970509937579664,0.0,-12.84612141407581
+[03:01:51] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -3.0808544994911244,0.0,-13.237206557004868
+[03:01:51] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -3.1645320903603533,0.0,-13.628322212406033
+[03:01:51] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -3.248092605556394,0.0,-14.019466122518168
+[03:01:51] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -3.331547752649385,0.0,-14.410635461869504
+[03:01:51] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -3.4149043161532973,0.0,-14.801828477297079
+[03:01:51] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -3.4981721544295397,0.0,-15.19304280119269
+[03:01:51] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -3.5731132068926854,0.0,-15.545135683371427
+[03:01:51] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -3.640560152322905,0.0,-15.862019268937786
+[03:01:51] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -3.70126240160198,0.0,-16.14721448839242
+[03:01:51] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -3.7558944245060957,0.0,-16.403890179102007
+[03:01:51] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -3.8050632438171306,0.0,-16.634898294620996
+[03:01:51] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -3.8493151800248597,0.0,-16.65582548916217
+[03:01:51] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -3.8891419215565293,0.0,-16.65582548916217
+[03:01:51] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -3.924985987985565,0.0,-16.65582548916217
+[03:01:51] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -3.957245646917272,0.0,-16.65582548916217
+[03:01:51] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -3.9862793391866944,0.0,-16.65582548916217
+[03:01:51] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -4.006771038838906,0.0,-16.65582548916217
+[03:01:51] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -4.006771038838906,0.0,-16.65582548916217
+[03:01:51] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -4.006771038838906,0.0,-16.65582548916217
+[03:01:51] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -4.006771038838906,0.0,-16.65582548916217
+[03:01:51] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -4.006771038838906,0.0,-16.65582548916217
+[03:01:51] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -4.006771038838906,0.0,-16.65582548916217
+[03:01:51] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -4.006771038838906,0.0,-16.65582548916217
+[03:01:51] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -4.006771038838906,0.0,-16.65582548916217
+[03:01:51] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -4.006771038838906,0.0,-16.65582548916217
+[03:02:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10662ms or 213 ticks behind
+[03:02:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5892ms or 117 ticks behind
+[03:02:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
+[03:03:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3282ms or 65 ticks behind
+[03:03:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[03:03:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5684ms or 113 ticks behind
+[03:04:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6515ms or 130 ticks behind
+[03:04:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7547ms or 150 ticks behind
+[03:04:50] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -10.337473981087442,8.242295734817162E-13,0.7281723911098652
+[03:04:50] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -10.736902775238832,8.313350008393172E-13,0.7308243430759376
+[03:04:50] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -11.136371468716789,8.384404281969182E-13,0.7320377728036647
+[03:04:50] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -11.53587434305291,8.455458555545192E-13,0.7318990343253517
+[03:04:50] [Server thread/WARN]: Birch Boat (vehicle of Harley) moved too quickly! -11.935406411813346,8.526512829121202E-13,0.7304935146614753
+[03:04:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10781ms or 215 ticks behind
+[03:05:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6040ms or 120 ticks behind
+[03:05:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4606ms or 92 ticks behind
+[03:05:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4300ms or 86 ticks behind
+[03:06:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5737ms or 114 ticks behind
+[03:06:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6353ms or 127 ticks behind
+[03:06:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5603ms or 112 ticks behind
+[03:07:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4362ms or 87 ticks behind
+[03:07:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6407ms or 128 ticks behind
+[03:07:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3159ms or 63 ticks behind
+[03:08:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3278ms or 65 ticks behind
+[03:08:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4467ms or 89 ticks behind
+[03:08:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5375ms or 107 ticks behind
+[03:09:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22239ms or 444 ticks behind
+[03:10:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23812ms or 476 ticks behind
+[03:10:32] [Server thread/INFO]: Stopping the server
+[03:10:33] [Server thread/INFO]: Stopping server
+[03:10:33] [Server thread/INFO]: Saving players
+[03:10:33] [Server thread/INFO]: Saving worlds
+[03:10:42] [Worker-Main-3/ERROR]: Caught exception in thread Thread[#40,Worker-Main-3,5,main]
+java.lang.OutOfMemoryError: Java heap space
+	at it.unimi.dsi.fastutil.longs.Long2ObjectOpenHashMap.clone(Long2ObjectOpenHashMap.java:1337) ~[fastutil-8.5.12.jar:?]
+	at eag$a.a(SourceFile:164) ~[server-1.20.2.jar:?]
+	at eag$a.b(SourceFile:144) ~[server-1.20.2.jar:?]
+	at eaa.b(SourceFile:287) ~[server-1.20.2.jar:?]
+	at ead.a(SourceFile:180) ~[server-1.20.2.jar:?]
+	at eab.a(SourceFile:56) ~[server-1.20.2.jar:?]
+	at akt.f(SourceFile:187) ~[server-1.20.2.jar:?]
+	at akt.h(SourceFile:166) ~[server-1.20.2.jar:?]
+	at akt$$Lambda/0x0000000800b29c00.run(Unknown Source) ~[?:?]
+	at bfr.h(SourceFile:91) ~[server-1.20.2.jar:?]
+	at bfr.a(SourceFile:146) ~[server-1.20.2.jar:?]
+	at bfr.run(SourceFile:102) ~[server-1.20.2.jar:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1423) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
